@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug/CMakeFiles/aula1008.dir
+/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug/CMakeFiles/rebuild_cache.dir

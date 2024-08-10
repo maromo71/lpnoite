@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpnoite/exemplo03_/cmake-build-debug/CMakeFiles/exemplo03_.dir
+/Users/marcosmoraes/lpnoite/exemplo03_/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpnoite/exemplo03_/cmake-build-debug/CMakeFiles/rebuild_cache.dir

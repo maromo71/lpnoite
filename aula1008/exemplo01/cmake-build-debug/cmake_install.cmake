@@ -1,4 +1,4 @@
-# Install script for directory: /Users/marcosmoraes/lpnoite/aula1008
+# Install script for directory: /Users/marcosmoraes/lpnoite/aula1008/exemplo01
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/marcosmoraes/lpnoite/aula1008/exemplo01/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

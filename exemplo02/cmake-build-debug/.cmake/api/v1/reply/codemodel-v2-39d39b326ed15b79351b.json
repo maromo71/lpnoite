@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "aula1008",
+					"name" : "exemplo02",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "aula1008::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-aula1008-Debug-c51179441f5d0eaa3555.json",
-					"name" : "aula1008",
+					"id" : "exemplo02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exemplo02-Debug-2fb510f7e8b89e57899f.json",
+					"name" : "exemplo02",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug",
-		"source" : "/Users/marcosmoraes/lpnoite/aula1008"
+		"build" : "/Users/marcosmoraes/lpnoite/exemplo02/cmake-build-debug",
+		"source" : "/Users/marcosmoraes/lpnoite/exemplo02"
 	},
 	"version" : 
 	{

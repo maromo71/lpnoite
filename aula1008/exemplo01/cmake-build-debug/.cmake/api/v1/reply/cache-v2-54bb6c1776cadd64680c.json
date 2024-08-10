@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug"
+			"value" : "/Users/marcosmoraes/lpnoite/aula1008/exemplo01/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/marcosmoraes/lpnoite/aula1008/exemplo01/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/marcosmoraes/lpnoite/aula1008"
+			"value" : "/Users/marcosmoraes/lpnoite/aula1008/exemplo01"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/marcosmoraes/lpnoite/aula1008/cmake-build-debug"
+			"value" : "/Users/marcosmoraes/lpnoite/aula1008/exemplo01/cmake-build-debug"
 		},
 		{
 			"name" : "aula1008_IS_TOP_LEVEL",
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/marcosmoraes/lpnoite/aula1008"
+			"value" : "/Users/marcosmoraes/lpnoite/aula1008/exemplo01"
 		}
 	],
 	"kind" : "cache",

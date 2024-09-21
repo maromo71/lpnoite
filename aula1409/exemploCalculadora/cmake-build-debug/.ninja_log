@@ -1,0 +1,6 @@
+# ninja log v6
+0	193	1726322390211938587	CMakeFiles/exemploCalculadora.dir/main.c.o	faad793651fecfd4
+1	194	1726322390212715603	CMakeFiles/exemploCalculadora.dir/calculadora.c.o	37b3ef4b08d6f1c2
+194	317	1726322390405370108	exemploCalculadora	c62bd77d05e37bea
+1	32	1726322409792363554	CMakeFiles/exemploCalculadora.dir/main.c.o	faad793651fecfd4
+32	58	1726322409822947654	exemploCalculadora	c62bd77d05e37bea

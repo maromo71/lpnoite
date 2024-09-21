@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpnoite/avaliacao01/questao04/cmake-build-debug/CMakeFiles/questao04.dir
+/Users/marcosmoraes/lpnoite/avaliacao01/questao04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpnoite/avaliacao01/questao04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

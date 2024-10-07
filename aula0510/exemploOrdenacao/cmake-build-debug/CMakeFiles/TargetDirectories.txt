@@ -1,0 +1,3 @@
+C:/lpnoite/aula0510/exemploOrdenacao/cmake-build-debug/CMakeFiles/exemploOrdenacao.dir
+C:/lpnoite/aula0510/exemploOrdenacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpnoite/aula0510/exemploOrdenacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir

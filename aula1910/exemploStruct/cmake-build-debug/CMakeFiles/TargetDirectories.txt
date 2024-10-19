@@ -1,0 +1,3 @@
+C:/lpnoite/aula1910/exemploStruct/cmake-build-debug/CMakeFiles/exemploStruct.dir
+C:/lpnoite/aula1910/exemploStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpnoite/aula1910/exemploStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

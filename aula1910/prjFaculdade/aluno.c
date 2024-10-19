@@ -12,7 +12,7 @@ void ler_dados(int i) {
         printf("Posicao ja preenhida\n");
         return;
     }
-    v[i] =(p_aluno) malloc(sizeof(aluno));
+    v[i] = (p_aluno) malloc(sizeof(struct Aluno));
     fflush(stdin);
     printf("Digite o nome do aluno: \n");
     scanf("%[^\n]", v[i]->nome);
@@ -31,8 +31,16 @@ void ler_dados(int i) {
     printf("Cadastrado com sucesso \n");
 }
 void imprimir_unico(int i) {
-
+    if(v[i]!=NULL) {
+        printf("Dado do Aluno de RA: %d \n", v[i]->matricula);
+        printf("Nome do Aluno: %s \n", v[i]->nome);
+        printf("Endereco do Aluno: %s \n", v[i]->endereco);
+        printf("Telefone do Aluno: %s \n", v[i]->telefone);
+        printf("Nota do Aluno: %.2lf \n", v[i]->nota);
+    }
 }
 void imprimir_tudo() {
-
+    for (int i = 0; i < MAX; i++) {
+        imprimir_unico(i);
+    }
 }

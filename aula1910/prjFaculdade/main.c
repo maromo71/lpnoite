@@ -1,13 +1,41 @@
 #include <stdio.h>
 #include "aluno.h"
+
+p_aluno v[MAX];
+
 int main(void)
 {
     //inicializar
     inicializa();
     int pos = 0; //posicao inicial do vetor
-    int opc = 0;
+    int opc = 0; //escolha do usuario
+    int posDesejada = 0;
     do {
-            printf("Menu Principal \n");
+        printf("Menu Principal \n");
+        printf("1. Cadastra Aluno \n");
+        printf("2. Mostrar Aluno Unico \n");
+        printf("3. Mostrar todos os Alunos \n");
+        printf("9. Sair \n");
+        scanf("%d", &opc);
+        switch (opc) {
+            case 1:
+                ler_dados(pos);
+                pos++; //proxima posicao
+                break;
+            case 2:
+                printf("Digite a posicao desejada: \n");
+                scanf("%d", &posDesejada);
+                imprimir_unico(posDesejada);
+                break;
+            case 3:
+                imprimir_tudo();
+                break;
+            case 9:
+                printf("Fim do programa\n");
+                break;
+            default:
+                printf("Opcao invalida\n");
+        }
     }while(opc != 9);
     return 0;
 }

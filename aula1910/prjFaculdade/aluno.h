@@ -26,4 +26,7 @@ void imprimir_unico(int i);
 
 // Imprimir todas as posicoes com dados
 void imprimir_tudo();
+
+//Procurar pela matricula
+void procurar_aluno(int matricula);
 #endif //ALUNO_H

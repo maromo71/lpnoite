@@ -9,7 +9,7 @@ void inicializa() {
 }
 void ler_dados(int i) {
     if(v[i]!=NULL) {
-        printf("Posicao ja preenhida\n");
+        printf("Posicao ja prenchida\n");
         return;
     }
     v[i] = (p_aluno) malloc(sizeof(struct Aluno));
@@ -31,8 +31,8 @@ void ler_dados(int i) {
     printf("Cadastrado com sucesso \n");
 }
 void imprimir_unico(int i) {
-    if(v[i]!=NULL) {
-        printf("Dado do Aluno de RA: %d \n", v[i]->matricula);
+    if(v[i]!=NULL && i < MAX) {
+        printf("Dado do Alu o de RA: %d \n", v[i]->matricula);
         printf("Nome do Aluno: %s \n", v[i]->nome);
         printf("Endereco do Aluno: %s \n", v[i]->endereco);
         printf("Telefone do Aluno: %s \n", v[i]->telefone);
@@ -43,4 +43,14 @@ void imprimir_tudo() {
     for (int i = 0; i < MAX; i++) {
         imprimir_unico(i);
     }
+}
+void procurar_aluno(int matricula) {
+    for (int i = 0; i < MAX; ++i) {
+        if(matricula == v[i]->matricula) {
+            printf("ALUNO encontrado: \n");
+            imprimir_unico(i);
+            return;
+        }
+    }
+    printf("Aluno não encontrado \n");
 }

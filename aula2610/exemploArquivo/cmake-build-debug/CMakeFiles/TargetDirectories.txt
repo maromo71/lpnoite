@@ -1,0 +1,3 @@
+C:/poonoite/aula2610/exemploArquivo/cmake-build-debug/CMakeFiles/exemploArquivo.dir
+C:/poonoite/aula2610/exemploArquivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/poonoite/aula2610/exemploArquivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

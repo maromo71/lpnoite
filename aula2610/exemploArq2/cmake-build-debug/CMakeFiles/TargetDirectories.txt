@@ -1,0 +1,3 @@
+C:/poonoite/aula2610/exemploArq2/cmake-build-debug/CMakeFiles/exemploArq2.dir
+C:/poonoite/aula2610/exemploArq2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/poonoite/aula2610/exemploArq2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

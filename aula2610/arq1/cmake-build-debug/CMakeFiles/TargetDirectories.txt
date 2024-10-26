@@ -1,0 +1,4 @@
+C:/testes/arq1/cmake-build-debug/CMakeFiles/arq1.dir
+C:/testes/arq1/cmake-build-debug/CMakeFiles/run.dir
+C:/testes/arq1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/testes/arq1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

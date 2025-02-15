@@ -16,6 +16,7 @@ int somar(int x, int y);
  *
  */
 int main(void) {
+    printf("Soma valores: \t\t\tA e B\n");
     // Declarando as variáveis a e b.
     int a = 10;
     int b = 15;

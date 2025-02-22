@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main(void) {
+    int x, y;
+    printf("Digite o valor de X: \n");
+    scanf("%d", &x);
+    printf("Digite o valor de Y: \n");
+    scanf("%d", &y);
+
+    printf("Valor de x: %d\n", x);
+    printf("Valor de y: %d\n", y);
+
+    printf("Endereco de y: %d\n", &y);
+
+    printf("Endereco de x: %d\n", &x);
+
+    //contagem
+    int cont = 0;
+    while (cont < 10) {
+        printf("O valor de cont eh: %d\n", ++cont);
+    }
+    return 0;
+}

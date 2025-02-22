@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void) {
+    int letra = 'B';
+    printf("Letra: %d \n", letra);
+    return 0;
+}

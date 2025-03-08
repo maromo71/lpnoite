@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+    char x, y, lixo;
+
+    printf("Digite a primeira letra: \n");
+    while (lixo = getchar() != '\n');
+    scanf("%c", &x);
+
+    printf("Digite a segunda letra: \n");
+    while (lixo = getchar() != '\n');
+    scanf(" %c", &y);
+    printf("Letras digitadas: y = %c e  x = %c\n", y, x);
+    return 0;
+}

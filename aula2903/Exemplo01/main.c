@@ -1,0 +1,12 @@
+#include <stdio.h>
+#define TAM 3
+int main(void) {
+    int a;
+    int v[TAM] = {1, 2};
+
+    for (int i=0; i<TAM; i++) {
+        printf("Vetor posicao %d = valor %d \n", i, v[i]);
+    }
+    printf("Valor de a: %d\n", a);
+    return 0;
+}

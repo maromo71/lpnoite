@@ -1,0 +1,3 @@
+C:/lpnoite/aula1503/Exercicio02/cmake-build-debug/CMakeFiles/Exercicio02.dir
+C:/lpnoite/aula1503/Exercicio02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpnoite/aula1503/Exercicio02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

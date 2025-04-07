@@ -1,0 +1,3 @@
+C:/lpnoite/avaliacao/Questao03_Blobs/cmake-build-debug/CMakeFiles/Questao03_Blobs.dir
+C:/lpnoite/avaliacao/Questao03_Blobs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpnoite/avaliacao/Questao03_Blobs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

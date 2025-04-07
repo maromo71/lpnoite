@@ -13,7 +13,7 @@ int main(void) {
         do {
             printf("digite um numero positivo: ");
             scanf("%d", &n);
-        }while (n<=1);
+        }while (n<1);
         if (n % 3 ==0) {
             soma_resto += n;
         }

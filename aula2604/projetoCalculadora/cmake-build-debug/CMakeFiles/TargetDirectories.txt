@@ -1,0 +1,3 @@
+C:/lpnoite/aula2604/projetoCalculadora/cmake-build-debug/CMakeFiles/projetoCalculadora.dir
+C:/lpnoite/aula2604/projetoCalculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpnoite/aula2604/projetoCalculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir

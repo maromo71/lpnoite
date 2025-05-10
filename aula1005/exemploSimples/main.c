@@ -1,0 +1,10 @@
+#include "biblioteca.h"
+
+int main(void) {
+    int teto = 5;
+    up(teto);
+    down(teto);
+    return 0;
+}
+
+

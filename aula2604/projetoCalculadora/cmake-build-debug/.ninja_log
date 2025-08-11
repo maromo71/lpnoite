@@ -1,9 +1,0 @@
-# ninja log v6
-5	153	7673848356063798	CMakeFiles/projetoCalculadora.dir/calcApp.c.obj	12741de7e1ede22f
-12	167	7673848356125622	CMakeFiles/projetoCalculadora.dir/calculadora.c.obj	98b1bf82856f4c60
-167	409	7673848357678228	projetoCalculadora.exe	980de5432f880f16
-18	120	7673848567761341	CMakeFiles/projetoCalculadora.dir/calcApp.c.obj	12741de7e1ede22f
-121	282	7673848568782239	projetoCalculadora.exe	980de5432f880f16
-30	163	7673856402763190	CMakeFiles/projetoCalculadora.dir/calcApp.c.obj	12741de7e1ede22f
-37	184	7673856402837709	CMakeFiles/projetoCalculadora.dir/calculadora.c.obj	98b1bf82856f4c60
-184	364	7673856404302788	projetoCalculadora.exe	980de5432f880f16

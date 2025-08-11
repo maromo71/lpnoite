@@ -1,3 +1,0 @@
-C:/lpnoite/avaliacao/Questao02/cmake-build-debug/CMakeFiles/Questao02.dir
-C:/lpnoite/avaliacao/Questao02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpnoite/avaliacao/Questao02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

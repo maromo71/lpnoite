@@ -1,3 +1,0 @@
-C:/lpnoite/aula1005/exemploFat/cmake-build-debug/CMakeFiles/exemploFat.dir
-C:/lpnoite/aula1005/exemploFat/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpnoite/aula1005/exemploFat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

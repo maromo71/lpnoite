@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BackendCodeEditorSettings">
-    <option name="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=58C9A09F_002D5570_002D5770_002D83CA_002D752FDFE35844_002Ff_003Aimc_002Ec/@EntryIndexedValue" value="ExplicitlyExcluded" type="string" />
-    <option name="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=58C9A09F_002D5570_002D5770_002D83CA_002D752FDFE35844_002Ff_003Amain_002Ec/@EntryIndexedValue" value="ExplicitlyExcluded" type="string" />
+    <option name="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=9577AE02_002D8B8A_002D5FAE_002D85B3_002DB2D58B37DD0C_002Ff_003Amain_002Ec/@EntryIndexedValue" value="ExplicitlyExcluded" type="string" />
     <option name="/Default/CodeStyle/CodeFormatting/CppClangFormat/EnableClangFormatSupport/@EntryValue" value="false" type="bool" />
     <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/ALIGN_MULTILINE_ARGUMENT/@EntryValue" value="true" type="bool" />
     <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/ALIGN_MULTILINE_BINARY_EXPRESSIONS_CHAIN/@EntryValue" value="true" type="bool" />

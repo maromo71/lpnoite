@@ -21,10 +21,19 @@ extern p_aluno v[MAX]; //vetor de 100 posicoes
  */
 void inicializar();
 
+/**
+ * @brief funcao tem por finalidade cadastrar os dados /**
+ * aluno
+ * @param i - Posicao a ser lida (posicao que inicia com 0)
+ */
 void ler_dados(int i);
 
 void imprimir_unico(int i);
 
 void imprimir_tudo();
+
+int procurar_aluno(int matr);
+
+void alterar_dados(int i);
 
 #endif

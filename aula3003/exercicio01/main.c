@@ -13,7 +13,7 @@ int main() {
         scanf("%d", &vet[i]);
     }
 
-    printf("Media : %.2f\n", calcularMediaEspecial(vet, n));
+    printf("Media Especial: %.2f\n", calcularMediaEspecial(vet, n));
     return 0;
 }
 

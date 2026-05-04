@@ -2,6 +2,7 @@
 #include <ctype.h>
 
 void contarFrequencia(char s[], int freq[26]);
+
 int main() {
     char texto[100];
     int alfabeto[26];

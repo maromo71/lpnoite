@@ -4,9 +4,8 @@
 void calcularMedias(float notas[5][3], float medias[5]);
 void verificarSituacao(float medias[5], char situacao[5][21]);
 
-
 int main() {
-    float notas[5][3], medias[5];
+    float notas[5][3], medias[5] = {0};
     char situacao[5][21];
     //Cinco alunos com tres entradas de notas
     for (int i = 0; i < 5; i++) {

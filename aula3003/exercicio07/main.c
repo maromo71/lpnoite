@@ -3,8 +3,8 @@
 int buscarMaior(int v[], int n);
 
 int main(void) {
-    int v[] = {2, 11, 4}; // Teste com 03 valores, depoios mude para 10
-    printf("Maior valor: %d\n", buscarMaior(v, 3));
+    int v[] = {2, 15, 4, 14, 3, 10 }; // Teste com 03 valores, depois mude para 10
+    printf("Maior valor: %d\n", buscarMaior(v, 6));
     return 0;
 }
 

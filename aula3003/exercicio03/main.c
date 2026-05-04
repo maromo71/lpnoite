@@ -20,7 +20,6 @@ int main(void) {
 }
 
 void imprimirTransposta(int n, int m, float mat[n][m]) {
-    printf("\nMatriz Transposta:\n");
     for (int j = 0; j < m; j++) {
         for (int i = 0; i < n; i++) {
             printf("%.1f ", mat[i][j]);

@@ -1,0 +1,3 @@
+C:/fatec/lpnoite/aula1708/exemplo04/build/CMakeFiles/exemplo04.dir
+C:/fatec/lpnoite/aula1708/exemplo04/build/CMakeFiles/edit_cache.dir
+C:/fatec/lpnoite/aula1708/exemplo04/build/CMakeFiles/rebuild_cache.dir

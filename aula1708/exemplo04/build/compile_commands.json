@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/fatec/lpnoite/aula1708/exemplo04/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\exemplo04.dir\\main.c.obj -c C:\\fatec\\lpnoite\\aula1708\\exemplo04\\main.c",
+  "file": "C:/fatec/lpnoite/aula1708/exemplo04/main.c",
+  "output": "CMakeFiles/exemplo04.dir/main.c.obj"
+}
+]

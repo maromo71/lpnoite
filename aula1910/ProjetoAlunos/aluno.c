@@ -1,0 +1,49 @@
+//
+// Created by memar on 19/10/2026.
+//
+
+#include "aluno.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+void inicializa() {
+    for (int i = 0; i < MAX; i++) {
+        v[i] = NULL;
+    }
+}
+
+void ler_dados(int pos){
+    if (v[pos] == NULL) {
+        //alocar um dado referente a um aluno
+        v[pos] = (p_aluno) malloc(sizeof(aluno));
+        char c;
+        c = getchar();
+        printf("Digite o nome do aluno: \n");
+        gets(v[pos]->nome);
+        printf("Digite a matricula do aluno (int): \n");
+        scanf("%d", &v[pos]->matricula);
+        c = getchar();
+        printf("Digite a telefone do aluno: \n");
+        gets(v[pos]->telefone);
+        printf("Digite a nota do aluno: \n");
+        scanf("%lf", &v[pos]->nota);
+        printf("Aluno cadastrado com sucesso!\n");
+    }
+}
+void imprimir_aluno(int pos) {
+    printf("Nome do aluno: %s \n", v[pos]->nome);
+    printf("Endereco: %s \n", v[pos]->endereco);
+    printf("Telefone: %s \n", v[pos]->telefone);
+    printf("Nota: %.2lf \n", v[pos]->nota);
+    printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n");
+}
+
+void imprimir_todos() {
+    for (int i=0; i<MAX; i++) {
+        if (v[i] != NULL) {
+            imprimir_aluno(i);
+        }else {
+            return;
+        }
+    }
+}

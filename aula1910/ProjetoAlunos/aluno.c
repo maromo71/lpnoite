@@ -36,6 +36,10 @@ void ler_dados(int pos){
     }
 }
 void imprimir_aluno(int pos) {
+    if (v[pos]==NULL) {
+        printf("Aluno nao econtrado\n");
+        return;
+    }
     printf("Nome do aluno: %s \n", v[pos]->nome);
     printf("Matricula do aluno: %d \n", v[pos]->matricula);
     printf("Endereco: %s \n", v[pos]->endereco);
